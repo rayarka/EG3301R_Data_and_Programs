@@ -7,7 +7,7 @@ url = 'https://api.openweathermap.org/data/2.5/onecall'
 
 print("\nRemember to write a VALID API KEY below. The appid parameter will still be accepted as input but no results will be returned unless a VALID API KEY is used", end = "\n\n")
 
-APIKey = "9be92b32c5e6e3223bc92eb8920e31e0" #OpenWeather Generated API Key (https://home.openweathermap.org/api_keys)
+APIKey = None #OpenWeather Generated API Key (https://home.openweathermap.org/api_keys)
 
 if APIKey == None:
     print ("A VALID API KEY HAS NOT BEEN ENTERED. Either register for a new key at https://home.openweathermap.org/api_keys or use the one that has been supplied to you.\n")
