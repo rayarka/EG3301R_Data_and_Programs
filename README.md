@@ -15,9 +15,7 @@ Download the associated libraries with `pip install -r requirements.txt`
 - SystematicPictureExtration.py 
 
 3. [Data.xlsx](https://github.com/rayarka/EG3301R_Data_and_Programs/blob/main/Data.xlsx)
-*Solar Panel Baseline vs With Reflector System Data*
-*Different Reflective Material Data*
-*Financial Estimatesd due to use of Reflector System*
+*Solar Panel Baseline vs With Reflector System Data; Different Reflective Material Data; Financial Estimatesd due to use of Reflector System*
 
 4. [OpenWeather](https://github.com/rayarka/EG3301R_Data_and_Programs/tree/main/OpenWeather)
 *API Call to determine weather conditions over subsequent hour before deploying reflector system*
