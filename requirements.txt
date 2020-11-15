@@ -1,0 +1,11 @@
+moviepy
+Pillow
+pvlib
+matplotlib
+pandas
+requests
+time
+json
+datetime
+# imutils
+# opencv-python
