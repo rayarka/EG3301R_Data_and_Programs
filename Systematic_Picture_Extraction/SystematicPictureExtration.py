@@ -1,7 +1,7 @@
-# from moviepy.editor import *
+from moviepy.editor import *
 import os
 from tkinter.filedialog import askopenfilename
-# from PIL import Image
+from PIL import Image
 
 print("\n\n")
 k = input("Enter your desired interval in seconds [NOTE: Enter a Positive Integer. Numbers which are negative and/or contain decimals will be converted to a rounded-down positive number. 0 will be rounded up to 1] : ")

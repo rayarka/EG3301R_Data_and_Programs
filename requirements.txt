@@ -4,7 +4,6 @@ pvlib
 matplotlib
 pandas
 requests
-json
 datetime
 # imutils
 # opencv-python
