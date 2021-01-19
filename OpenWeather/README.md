@@ -2,7 +2,8 @@
 
 In order to run this program, you will need an OpenWeather API key. If you do not have one or have not been supplied one, please register for it [here](https://home.openweathermap.org/api_keys "OpenWeather API Key").
 
-Following that, input your API key under the ''APIKey' parameter on line 10.
+Following that, input your API key under the ''APIKey' parameter on line 10.<br>
+<i>If you were provided with an API key by me, it has now been deactivated. Please contact me if you need another one or feel free to sign up for one yourself</i>
 
 Then you can run `python .\OpenWeatherAPI.py ` or `python .\OpenWeather\OpenWeatherAPI.py` depending on your set up.
 
